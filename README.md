@@ -1,7 +1,5 @@
 # Omas Kruidkoek Recipe
 
-![Hilda Anema My Oma][oma.jpg]
-
 I am publishing my Oma's Kruidkoek (Dutch Spice Cake) Recipe so that everyone can
 enjoy! Also so that I stop losing the peice of paper with the recipe on.
 
