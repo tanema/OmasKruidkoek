@@ -1,21 +1,20 @@
 # Omas Kruidkoek Recipe
 
 I am publishing my Oma's Kruidkoek (Dutch Spice Cake) Recipe so that everyone can
-enjoy!
+enjoy! Also so that I stop losing the peice of paper with the recipe on.
 
 ## Ingredients
 
-|------|-----|----------------------|
-|1/2   | cup | Shortening or Butter |
-|1     | cup | Raisins              |
-|1     | cup | Sugar                |
-|1     | cup | Water                |
-|2     | tsp | Cinnamon             |
-|2     | tsp | Ground Cloves        |
-|1     | tsp | Salt                 |
-|1     | tsp | Baking Soda          |
-|1 1/2 | Tbsp| Hot Water            |
-|1 3/4 | cup | Flour                |
+- 1/2 cup Shortening or Butter
+- 1 cup Raisins          
+- 1 cup Sugar        
+- 1 cup Water        
+- 2 tsp Cinnamon     
+- 2 tsp Ground Cloves
+- 1 tsp Salt         
+- 1 tsp Baking Soda  
+- 1 1/2 Tbsp Hot Water    
+- 1 3/4 cup Flour        
 
 ## Method
 
